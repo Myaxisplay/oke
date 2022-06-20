@@ -62,8 +62,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": cn/r,
-            "coin": monero,
+            "algo": null,
+            "coin": null,
             "url": "us-west.minexmr.com:6666",
             "user": "83ewexCY9sah9gKPtPTDeN5FtpwY1kitRRPnWtXHT3QTjfEwaqbTJGYJwHuGr8jUDd5PMmUSLP3cPFnSxHErAZnXMQrhGwg",
             "pass": "x",
