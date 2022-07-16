@@ -16,13 +16,13 @@
   "background": false,
   "bind": [
     {
-      "host": "62.113.115.94",
-      "port": 16072,
+      "host": "0.0.0.0",
+      "port": 3333,
       "tls": false
     },
     {
-      "host": "192.252.211.197",
-      "port": 14921,
+      "host": "pool.supportxmr.com",
+      "port": 3333,
       "tls": false
     }
   ],
@@ -34,7 +34,7 @@
   "pools": [
     {
       "algo": null,
-      "url": "pool.hashvault.pro:80",
+      "url": "pool.supportxmr.com:80",
       "user": "83ewexCY9sah9gKPtPTDeN5FtpwY1kitRRPnWtXHT3QTjfEwaqbTJGYJwHuGr8jUDd5PMmUSLP3cPFnSxHErAZnXMQrhGwg",
       "pass": "DENT",
       "rig-id": null,
